@@ -7,7 +7,7 @@ function showProducts() {
             console.log(`ID: ${product.id}, Nombre: ${product.name}, Cantidad: ${product.quantity}`);
         });
     } else {
-        console.log('El inventario está vacío');
+        console.log('El inventario está vacío 00');
     }
 }
 
